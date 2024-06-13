@@ -1,3 +1,5 @@
+'''fdg'''
+
 def greet_all(name1, name2, *names):
     print(f"Здравствуйте, {name1}!")
     print(f"Здравствуйте, {name2}!")
